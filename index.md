@@ -20,12 +20,12 @@ page_sections:
     button_text: Download
 - template: hero-banner-w-image
   block: hero-2
-  headline: Flashy <br><strong>An Open Source flash for photography</strong>
-  content: This flash is fully open source.
+  headline: "<strong>Flashy </strong><br>An Open Source flash for photography"
+  content: ''
   cta:
     enabled: true
-    url: https://github.com/forestryio/ubuild-jekyll
-    button_text: 'See on GitHub '
+    url: ''
+    button_text: Getting Started
   image:
     image: "/uploads/2018/06/21/product-shot-1.png"
     alt_text: Product Shot
